@@ -9,11 +9,8 @@ public class apaxian {
         String cadena1=null, cadena2="";
         
         cadena1=sc.nextLine();
-        //cadena2+=cadena1.charAt(0);
         for (int i = 0; i < cadena1.length()-1; i++) {      
-            if (cadena1.charAt(i)==cadena1.charAt(i+1)) {
-                
-            }else{
+            if (!(cadena1.charAt(i)==cadena1.charAt(i+1))) {
                 cadena2+=cadena1.charAt(i);
             }
         }
