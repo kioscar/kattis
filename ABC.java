@@ -22,7 +22,8 @@ public class ABC {
         n1 = sc.nextInt();
         n2 = sc.nextInt();
         n3 = sc.nextInt();
-
+        
+        
         sc.nextLine();
         cad = sc.nextLine();
 
