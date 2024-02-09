@@ -10,7 +10,7 @@ import java.util.Scanner;
  */
 /**
  *
- * @author oscar
+ * @author oscar Hernández
  */
 public class ABC {
     public static void main(String[] args) {
@@ -26,8 +26,6 @@ public class ABC {
         
         sc.nextLine();
         cad = sc.nextLine();
-
-        ABC m = new ABC();
 
         ArrayList numeros = m.ordenar(n1, n2, n3);
         String n="";
