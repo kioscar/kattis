@@ -8,7 +8,7 @@ import java.util.Scanner;
  */
 /**
  *
- * @author oscar
+ * @author oscar Hernández
  */
 public class tri {
 
